@@ -1,0 +1,4 @@
+ModeDes.c:10:6:GetInfo	16	static
+ModeDes.c:24:6:InterputDataFromAdc	16	static
+ModeDes.c:46:6:AverDataFromAdc	24	static
+ModeDes.c:120:6:ChangeModes	16	static

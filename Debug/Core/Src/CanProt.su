@@ -1,0 +1,3 @@
+CanProt.c:11:6:InterputDataCanProt	24	static
+CanProt.c:26:6:ConvertDataTOProt	32	static
+CanProt.c:62:6:CanSendStdMessage	40	static

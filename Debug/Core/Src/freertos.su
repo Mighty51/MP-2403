@@ -1,0 +1,10 @@
+freertos.c:142:6:MX_FREERTOS_Init	8	static
+freertos.c:202:6:StartDefaultTask	24	static
+freertos.c:241:6:ButtonTask	16	static
+freertos.c:285:6:OutputTask	16	static
+freertos.c:333:6:SwitchModeTask	16	static
+freertos.c:356:6:CanTask	24	static
+freertos.c:379:6:AdcTask	16	static
+freertos.c:412:6:LedTask	16	static
+freertos.c:469:6:HAL_TIM_OC_DelayElapsedCallback	56	static
+freertos.c:489:6:HAL_ADC_ConvCpltCallback	16	static
